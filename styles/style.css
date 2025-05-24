@@ -567,7 +567,7 @@ textarea {
   font-family: "bowlby one";
   font-size: 28px;
   color: #1e1e1e;
-  cursor: -moz-grab;
+  cursor: grab;
 }
 .contact-header {
   width: 1213px;
@@ -674,7 +674,7 @@ textarea {
   font-size: 24px;
   border: 2px solid black;
   transform: translateY(40px);
-  cursor: -moz-grab;
+  cursor: grab;
 }
 .custom-footer {
   text-align: center;
