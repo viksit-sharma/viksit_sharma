@@ -108,11 +108,13 @@ body {
   writing-mode: vertical-rl;
   text-orientation: mixed;
   transform: translateY(-590px) translateX(-190px);
+  cursor: none;
 }
 
 .right-label:hover {
   filter: brightness(200%);
   transform: rotate(-90deg) translateX(320px) translateY(903px);
+  cursor: none;
 }
 #hero-image img {
   max-width: 100%;
@@ -477,16 +479,19 @@ body {
 .quote span:hover {
   color: #181818;
   -webkit-text-stroke: 0.000005px white;
+  cursor: none;
 }
 
 .quote .highlight:hover {
   color: #181818;
   -webkit-text-stroke: 0.000005px white;
+  cursor: none;
 }
 
 .quote .dark:hover {
   color: #ffffff;
   -webkit-text-stroke: 0.000005px rgb(0, 0, 0);
+  cursor: none;
 }
 #contact {
   background-color: rgba(0, 0, 0, 0.311);
@@ -562,6 +567,7 @@ textarea {
   font-family: "bowlby one";
   font-size: 28px;
   color: #1e1e1e;
+  cursor: -moz-grab;
 }
 .contact-header {
   width: 1213px;
@@ -668,6 +674,7 @@ textarea {
   font-size: 24px;
   border: 2px solid black;
   transform: translateY(40px);
+  cursor: -moz-grab;
 }
 .custom-footer {
   text-align: center;
@@ -714,6 +721,8 @@ textarea {
 .green-text:hover {
   text-shadow: 0 0 9px #00ff00, 0 0 9px #00ff00;
   color: #000000;
+  cursor: -moz-grab;
+  
 }
 
 .contact-button {
@@ -725,4 +734,5 @@ textarea {
   box-shadow: 0 0 9px #00ff00, 0 0 9px #00ff00;
   text-shadow: 0 0 9px #00ff00;
   transition: all 0.3s ease;
+  cursor: -moz-grab;
 }
