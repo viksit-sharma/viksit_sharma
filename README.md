@@ -1,1 +1,1 @@
-I developed this personal portfolio website to showcase my work and skills. The design is based on the "Personal Portfolio" layout originally created by Kirubakaran, which I adapted and customized to suit my personal style and needs. Special thanks to Kirubakaran for the design inspiration, licensed under CC BY 4.0.
+
